@@ -2,8 +2,7 @@
 %%% Field And Wave Project
 %%% instructot Dr. Moradi 
 %%% TO ask for copy contanct mahdimath76@gmail.com
-%%% All simulation by Mahdi Morafah Student OF EE AT Amirkabir University
-%%% Of Technology
+%%% All simulation by Mahdi Morafah Student OF EE AT Amirkabir University Of Technology
 %%% date : 6/29/2018
  clear ; 
  close all;
